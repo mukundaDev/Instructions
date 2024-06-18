@@ -4,6 +4,4 @@ public class Hungry {
         System.out.println("Eat samosa if your are Hungry");
         System.out.println("Hey, Im Hungry");
     }
-
-
 }
